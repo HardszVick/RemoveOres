@@ -1,0 +1,5 @@
+name: RemoverMinerios
+main: com.hardszvick.minerios.Main
+version: 1.0.0
+api-version: "1.21"
+description: "Remove todos os minerios do mundo"
